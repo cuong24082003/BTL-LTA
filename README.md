@@ -18,10 +18,6 @@
 --------------------
 ### Ứng dụng đã build và test trên máy thật
 
-### Demo
-
-https://github.com/user-attachments/assets/3b30009d-14f3-46f3-8c49-a31d7fc9fbd9
-
 ### 1. Hiển thị thông tin sinh viên trên Dialog
 ![398590119-45d75b1f-1829-4c98-a9c7-326b795b46ab (2)]
 
