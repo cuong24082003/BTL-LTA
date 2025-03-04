@@ -1,7 +1,7 @@
 ## XÂY DỰNG WEBAPP HIỂN THỊ THÔNG TIN CÁ NHÂN
-> - Author: Nguyễn Tuấn Anh 
+> - Author: Phạm Nguyên Cương 
 > - Class: K57KMT
-> - ID student: K215480106003
+> - ID student: K215480106010
 ### Nội dung:
  - [x] **Cài đặt Android studio và Android SDK**
  - [x] **Tạo app sử dụng Java**
@@ -23,7 +23,7 @@
 https://github.com/user-attachments/assets/3b30009d-14f3-46f3-8c49-a31d7fc9fbd9
 
 ### 1. Hiển thị thông tin sinh viên trên Dialog
-![398590119-45d75b1f-1829-4c98-a9c7-326b795b46ab (2)](https://github.com/user-attachments/assets/7811e9b5-a2bd-4896-bb14-325d1ad42645)
+![398590119-45d75b1f-1829-4c98-a9c7-326b795b46ab (2)]
 
 ---------------
 
